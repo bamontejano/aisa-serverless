@@ -1,0 +1,30 @@
+{
+  "name": "aisa-serverless",
+  "version": "1.0.0",
+  "description": "Backend Serverless para AISA (OCR + Gemini)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "nextjs",
+    "serverless",
+    "gemini",
+    "ocr",
+    "vision-api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/vision": "^4.0.2",
+    "@google/genai": "^0.15.0",
+    "formidable": "^3.5.1",
+    "google-auth-library": "^9.10.0",
+    "next": "^14.2.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}

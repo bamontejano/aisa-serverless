@@ -1,0 +1,5 @@
+/node_modules 
+/.next 
+/temp 
+.env.local 
+vision-key.json 

@@ -1,0 +1,6 @@
+# Clave API de Gemini
+GEMINI_API_KEY="AIzaSyD7zqor83AoyIyOIOt_ainJVI6gFE5sYQ8" 
+
+# Ruta al archivo de clave JSON para Google Cloud Vision (OCR)
+# Asegúrate de que el archivo 'vision-key.json' esté en la raíz del proyecto.
+GOOGLE_APPLICATION_CREDENTIALS=""
